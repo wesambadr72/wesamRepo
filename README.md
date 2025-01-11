@@ -1,6 +1,6 @@
 - # Hi there, I'm Wesam! 👋
 
-I'm a passionate developer with a love for learning and creating. Welcome to my GitHub profile!
+I'm  A student aspires to become a Software with a love for learning and creating. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
