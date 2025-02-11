@@ -1,16 +1,6 @@
 - # Hi there, I'm Wesam! 👋
 
-I'm  A student aspires to become a Software with a love for learning and creating. Welcome to my GitHub profile!
-
-## 🔧 Technologies & Tools
-
-- **Languages:** Python, Java
-- **Databases:** MySQL
-- **Tools:** Git
-
-## 📈 GitHub Stats
-
-![Wesam's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesambadr72&show_icons=true&theme=radical)
+I'm  A student aspires to become a Full-Stack and Software Enginner with a love for learning and creating. Welcome to my GitHub profile!
 
 ## 🤔 What I'm Currently Working On
 
